@@ -13,4 +13,4 @@ Streamlit’s open-source app framework is a breeze to get started with. It’s 
 #### $ pip install streamlit
 
 streamlit hello
-And you’re done! Now check out our documentation : https://docs.streamlit.io/  and forums for next steps.
+And you’re done! Now check out our documentation : https://docs.streamlit.io/  and forums for next steps
